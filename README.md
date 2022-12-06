@@ -2,7 +2,7 @@
 
 I'm joining the mini challenges for the Advent of Code this year. You can find more info [here](https://adventofcode.com/2022).
 
-My solutions are implemented in pure Python, using some modukles from the _stdlib_.
+My solutions are implemented in pure Python, using some modules from the _stdlib_ (nothing needs to be installed).
 
 
 ## Running the solutions
