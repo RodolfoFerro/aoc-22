@@ -58,7 +58,6 @@ def parse_data(data):
     """
 
     # Split symbols
-    parsed_data = []
     highest_tile = 0
 
     # Read number pf stacks to be used
